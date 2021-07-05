@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="Start">Start</string>
+    <string name="CreateQuiz">Create Quiz</string>
+    <string name="Exit">Exit</string>
+    <string name="todo">TODO</string>
+    <string name="back">Back</string>
+    <string name="Kamar">Kamar</string>
+    <string name="question">Questions: 1/n</string>
+    <string name="score_0">Score: 0</string>
+    <string name="_00_20">00:20</string>
+    <string name="option1">Option1</string>
+    <string name="option2">Option2</string>
+    <string name="option3">Option3</string>
+    <string name="next">Next</string>
+
+
+    <string name="Question">question be here</string>
+</resources>
